@@ -4,9 +4,7 @@ We find inspiration in the captivating world of gesture recognition depicted by 
 
 Credits to the Hagrid dataset as dataset resource(Kapitanov Alexander et al, HaGRID - HAnd Gesture Recognition Image Dataset (2022). Cornell University, arXivLabs. Url: https://arxiv.org/pdf/2206.08219.pdf)
 
-Inside of this repo, there are two folders:
-  The "model" is for the best model we trained on Resnet18, Resnet50 and Resnext101. 
-  The "experiment" is the original colab file which shows you how we trained and tested on the data. 
+The "experiment" is the original colab file which shows you how we trained and tested on the data. 
 
 The dataset is already loaded inside of the google colab. 
 
